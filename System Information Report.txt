@@ -1,0 +1,49 @@
+(System Information Report)
+
+--------------------------------------------------------------------------------------------------------------------------
+Installation Database
+
+Step 1 - Install Xamp (you can google and download installer)
+Step 2 - Open browsers and go to http://localhost/phpmyadmin/
+Step 3 - Click "New" and fill in "Database SQL Name" from the SQL Database Folder then click create
+Step 4 - Next click choose file and choose SQL file from the SQL Database then click "GO"
+=======================================================================================================
+Installation Websystem
+
+Step 1 - open C:\xampp\htdocs\
+Step 2 - Copy Website System Folder to C:\xampp\htdocs\
+Step 3 - open browsers and go to address https://localhost/WebsiteSystemName/root/index.php
+=======================================================================================================
+---------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================
+(System Description)
+
+The Web system is about Chatting System where people can register and login then
+the user can chat with everyone. It is open chatting room for all people who have 
+been register. you can also update your detail such as name, password,gender, age, 
+occupation and status.The Chatting System Works 100%.
+========================================================================================================
+(System Suitability) 
+
+suitable for 
+- Practice PHP coding for beginner
+- Used for guidence for system developer
+- Add other PHP code to become more efficient
+- For school project with web system development
+- Available for web hosting with SQL Database Server
+========================================================================================================
+(System Requirement)
+
+Support with
+
+- Any OS from xp to window 10
+- Support any browsers for window
+- Available with all Computer that support OS
+- Internet Connection
+========================================================================================================
+(Testing connection)
+
+p to p
+http://serveripaddress/filelocation/index.php
+========================================================================================================
